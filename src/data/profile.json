@@ -1,0 +1,154 @@
+{
+  "personal": {
+    "name": "Fakri",
+    "full_name": "Muhammad Fakri Gaffar",
+    "roles": [
+      "Web Developer"
+    ]
+  },
+  "socials": [
+    {
+      "name": "Github",
+      "icon": "github",
+      "link": "https://github.com/fakri102",
+      "color": "#333"
+    },
+    {
+      "name": "Goodreads",
+      "icon": "goodreads-g",
+      "link": "https://www.goodreads.com/user/show/80262028-m-fakri-gaffar",
+      "color": "#553b08"
+    },
+    {
+      "name": "Linkedin",
+      "icon": "linkedin-in",
+      "link": "https://www.linkedin.com/in/muhammad-fakri-gaffar-15497812b/",
+      "color": "#0077B5"
+    },
+    {
+      "name": "Instagram",
+      "icon": "instagram",
+      "link": "https://www.instagram.com/mfakrigaffar/",
+      "color": "#0077B5"
+    }
+  ],
+  "educations": [
+    {
+      "degree": "Bachelor of Applied Science",
+      "major": "Software Engineering",
+      "name": "Politeknik Negeri Bandung",
+      "start": "2016",
+      "end": "2021",
+      "description": []
+    },
+    {
+      "degree": "",
+      "major": "",
+      "name": "SMA Negeri 4 Bandung",
+      "start": "2013",
+      "end": "2016",
+      "description": []
+    },
+    {
+      "degree": "",
+      "major": "",
+      "name": "SMP Negeri 1 Bandung",
+      "start": "2010",
+      "end": "2013",
+      "description": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Star Restaurant",
+      "type": "Dicoding Submission",
+      "date": "September 2021",
+      "code": "star-restaurant",
+      "thumbnail": "star-restaurant_thumb.jpg",
+      "image": "/assets/images/projects/star-restaurant.jpg"
+    },
+    {
+      "name": "Find MealDB",
+      "type": "Dicoding Submission",
+      "date": "September 2021",
+      "code": "find-meal-db",
+      "thumbnail": "find-mealDB_thumb.jpg",
+      "image": "/assets/images/projects/find-mealDB.jpg"
+    },
+    {
+      "name": "Zeeals Admin",
+      "type": "",
+      "date": "November 2019",
+      "code": "zeeals-admin-all-user",
+      "thumbnail": "zeealsAdmin-allUser_thumb.jpg",
+      "image": "/assets/images/projects/zeealsAdmin-allUser.jpg"
+    },
+    {
+      "name": "Bookingku Mobile",
+      "type": "",
+      "date": "September 2021",
+      "code": "bookingku-home",
+      "thumbnail": "bookingku-home_thumb.jpg",
+      "image": "/assets/images/projects/bookingku-home.jpg"
+    }
+  ],
+  "works": [
+    {
+      "title": "Full-Stack Web Developer",
+      "company": "PT. Kong Teknologi Asia",
+      "jobType": "Internship",
+      "start": "September 2019",
+      "end": "November 2019",
+      "description": [
+        "Develop Zeeals Admin REST API using Laravel",
+        "Develop Zeeals Admin website page using Vue JS",
+        "Create Zeeals Admin database using MySQL"
+      ]
+    },
+    {
+      "title": "Mobile Multi-Platform Developer",
+      "company": "PT. Kong Teknologi Asia",
+      "jobType": "Internship",
+      "start": "July 2019",
+      "end": "September 2019",
+      "description": [
+        "Create application User Interface designs using Adobe XD",
+        "Develop multi-platform mobile application for booking a futsal place using Ionic"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Menjadi Front-End Developer Expert",
+      "date": "September 2021",
+      "granted": "Dicoding",
+      "link": "https://www.dicoding.com/certificates/JMZV24Y0RZN9",
+      "icon": "https://d17ivq9b7rppb3.cloudfront.net/original/event/diskusi_online_kelas_academy_menjadi_android_developer_expert_logo_140318105211.png",
+      "description": "Learn expert and modern techniques for building optimized websites across devices, especially on mobile devices."
+    },
+    {
+      "name": "Belajar Fundamental Front-End Web Development",
+      "date": "September 2021",
+      "granted": "Dicoding",
+      "link": "https://www.dicoding.com/certificates/NVP714M6GPR0",
+      "icon": "https://d17ivq9b7rppb3.cloudfront.net/original/event/diskusi_online_kelas_academy_menjadi_android_developer_expert_logo_140318105211.png",
+      "description": "Learn ES6 syntax, Web Components, and Build Tools in building websites with simple, reusable, and optimized techniques."
+    },
+    {
+      "name": "Belajar Fundamental Aplikasi Back-End",
+      "date": "August 2021",
+      "granted": "Dicoding",
+      "link": "https://www.dicoding.com/certificates/72ZDEVL79PYW",
+      "icon": "https://d17ivq9b7rppb3.cloudfront.net/original/event/diskusi_online_kelas_academy_menjadi_android_developer_expert_logo_140318105211.png",
+      "description": "Learn technology in building powerful RESTful APIs such as Database, Storage, to Authentication and Authorization."
+    },
+    {
+      "name": "Architecting on AWS (Membangun Arsitektur Cloud di AWS)",
+      "date": "August 2021",
+      "granted": "Dicoding",
+      "link": "https://www.dicoding.com/certificates/MEPJLN1JWZ3V",
+      "icon": "https://d17ivq9b7rppb3.cloudfront.net/original/event/diskusi_online_kelas_academy_menjadi_android_developer_expert_logo_140318105211.png",
+      "description": "Learn how to build cloud architectures on AWS, from simple with Amazon S3, to sophisticated with serverless."
+    }
+  ]
+}
