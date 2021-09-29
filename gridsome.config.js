@@ -7,7 +7,7 @@
 module.exports = {
   siteName: 'M Fakri G profile',
   siteUrl: 'https://Fakri102.github.io',
-  pathPrefix: '/my-gridsome-site-v2/dist/',
+  // pathPrefix: '/dist/',
   transformers: {
     remark: {
      externalLinksTarget: '_blank',
