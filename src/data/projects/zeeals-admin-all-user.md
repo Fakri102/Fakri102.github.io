@@ -1,6 +1,7 @@
 Zeeals Admin is a Website application for monitoring registered user in zeeals link. used by internal company. Develope using Laravel as backend frameworks and Vue js as frontend frameworks  
   
 My responsibilities:
+- Create REST API
 - display all registered users
 - display registered users detail 
 - display all pro users
