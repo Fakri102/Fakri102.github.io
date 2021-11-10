@@ -7,7 +7,7 @@
           src="~/assets/images/projects/star-restaurant_thumb.jpg" fit="cover" v-if="project.code === 'star-restaurant'" height="300"/>
         <g-image
           class="thumbnail"
-          src="~/assets/images/projects/find-mealDB_thumb.jpg" fit="cover" v-else-if="project.code === 'find-meal-db'" height="300"/>
+          src="~/assets/images/projects/vue-chat_thumb.jpg" fit="cover" v-else-if="project.code === 'vue-chat'" height="630"/>
         <g-image
           class="thumbnail"
           src="~/assets/images/projects/zeealsAdmin-allUser_thumb.jpg" fit="cover" v-else-if="project.code === 'zeeals-admin-all-user'" height="300"/>

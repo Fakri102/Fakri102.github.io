@@ -5,11 +5,14 @@
         Hello, I'm <strong>{{ personal.full_name }}</strong>, a Junior Web Developer
       </p>
       <p>
-        I'm a junior full stack developer. Interested in web development technology. Currently, my Activities is learning more about front-end web.
+        I'm a junior full stack developer. Interested in web development. loves exploring new technologies in web application development.
       </p>
-      <p>
+      <!-- <p>
         Web development frameworks that I have used are vue js and laravel
-      </p>
+      </p> -->
+      <!-- <p>
+          <a href="https://bit.ly/3ipyV8p" target="_blank">My CV</a>
+      </p> -->
 
     </Card>
   </div>

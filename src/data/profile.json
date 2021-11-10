@@ -68,12 +68,12 @@
       "image": "/assets/images/projects/star-restaurant.jpg"
     },
     {
-      "name": "Find MealDB",
-      "type": "Dicoding Submission",
-      "date": "September 2021",
-      "code": "find-meal-db",
-      "thumbnail": "find-mealDB_thumb.jpg",
-      "image": "/assets/images/projects/find-mealDB.jpg"
+      "name": "VueChat",
+      "type": "Codepolitan Project",
+      "date": "November 2021",
+      "code": "vue-chat",
+      "thumbnail": "vue-chat_thumb.jpg",
+      "image": "/assets/images/projects/vue-chat.jpg"
     },
     {
       "name": "Zeeals Admin",
@@ -149,6 +149,14 @@
       "link": "https://www.dicoding.com/certificates/MEPJLN1JWZ3V",
       "icon": "https://d17ivq9b7rppb3.cloudfront.net/original/event/diskusi_online_kelas_academy_menjadi_android_developer_expert_logo_140318105211.png",
       "description": "Learn how to build cloud architectures on AWS, from simple with Amazon S3, to sophisticated with serverless."
+    },
+    {
+      "name": "Laravel 8x Fundamental",
+      "date": "November 2021",
+      "granted": "Codepolitan",
+      "link": "https://www.codepolitan.com/c/5ZGCTDF",
+      "icon": "https://img2.pngdownload.id/20180525/gbb/kisspng-codepolitan-computer-programming-programmer-softwa-5b08bd265be7e8.2062125515272993663765.jpg",
+      "description": "Learn Laravel 8 Fundamental"
     }
   ]
 }
