@@ -1,4 +1,3 @@
-Portofolio based on [Source](https://github.com/ittus/vue-developer-profile)  
 
 # Default starter for Gridsome
 
